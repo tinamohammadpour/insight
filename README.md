@@ -1,6 +1,6 @@
 # Insight
 
-This repositories contain articles in Markdown language about various topics. This table is an overview of the topics and contributions.
+This repository contains articles in Markdown language about various topics. This table is an overview of the topics and contributions.
 
 | Topic (Directory Name) | Author | Student ID | Resources |
 | ------------- | ------------- | ------------- | ------------- |
@@ -9,5 +9,5 @@ This repositories contain articles in Markdown language about various topics. Th
 
 [Here is also a short tutorial about how to contribute to this repository for students. ](https://www.notion.so/amin-mag/Documentation-ed83b200250d4859a264ed5eefb5fc55)
 
-> This repository is contributed by the students of **Fundamentals of Computer Programming 2022 and Computer Workshop 2022** course at Iran University of Science and Technology.
+> This repository is contributed by the students of **Fundamentals of Computer Programming 2022 and Computer Workshop 2022** course at Iran University of Science and Technology to learn how to use Markdown language and contribute in an open source project.
  
